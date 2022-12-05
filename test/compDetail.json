@@ -1,0 +1,46 @@
+{
+    "name": "KILANICO GENERAL TRADING L.L.C",
+    "logo": "https://forsa.sy/Files/CompanyProfile/f4ce5c71-f682-49d5-bc84-e7d81a522cc7.jpeg",
+    "cover": null,
+    "profile": "We briefly introduce our company as a leading General Trading Company.",
+    "BriefFors": [
+        {
+            "ForsaId": "ad127a7d-2d83-4a83-8d39-5ce6f75f0da5",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/f4ce5c71-f682-49d5-bc84-e7d81a522cc7.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "KILANICO GENERAL TRADING L.L.C",
+            "Title": "Procurement Coordinator",
+            "IsNew": false,
+            "Since": "28 days ago",
+            "SinceAr": "منذ 28 يوم",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "89782850-c080-4a58-a8da-05c7aa2d137e",
+                "541bbe83-d0c9-49f8-8839-e4906a610559"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1090,
+            "Address": "Fahhameh - in front of Al-Kendi hospital -above Al-Tabbaa pharmacy - Al-Kassar Building - 1st floor",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 25,
+            "MaxAge": 40,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        }
+    ]
+}

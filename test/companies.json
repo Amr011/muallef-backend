@@ -1,0 +1,164 @@
+{
+    "companies": [
+        {
+            "CompanyId": "204ee2c8-d4ad-40ad-90c3-f80ac74071a8",
+            "Name": "Syriatel Mobile Telecom",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/359b6423-fb9d-4d46-ab3c-6035277b3d4c.jpeg"
+        },
+        {
+            "CompanyId": "ed45a9f9-c35e-4904-9514-f7c6b92380db",
+            "Name": "shami-cafe",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/48982b57-4aed-415a-b8e4-22fb934b7e72.jpeg"
+        },
+        {
+            "CompanyId": "2c31d20a-a2d0-472a-bff3-b06bab7f8596",
+            "Name": "MTN Syria",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/e9b0cf59-d1bc-4f3a-beec-378710a4887c.jpeg"
+        },
+        {
+            "CompanyId": "3e95ddac-a36c-4069-aeaa-77584d0c7429",
+            "Name": "Sell Any Ad",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/dbbcc1a2-4a78-443a-b2bf-d864959e3951.jpeg"
+        },
+        {
+            "CompanyId": "a1d350fc-65d0-4204-8f32-bf340c46ad32",
+            "Name": "شركة الهرم للحوالات المالية ",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/1ed229bb-f15c-4d77-8ed8-10a53d51df69.jpeg"
+        },
+        {
+            "CompanyId": "1c67adf0-b17f-4cba-ada1-b558aebd122c",
+            "Name": "VROAD LLC",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/cfa6cb4d-e4ed-4097-8143-6d3c6d634b0c.jpeg"
+        },
+        {
+            "CompanyId": "91bf683a-6bb0-4e89-89f8-b3598ee36aa9",
+            "Name": "kabbani and knifati group",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/caf08137-ae1b-4447-924f-2da75010f55b.jpeg"
+        },
+        {
+            "CompanyId": "3a7f5424-9553-4bd8-8d8a-2e6f0971e9d4",
+            "Name": "CODERS DC",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/995e5308-bab4-43fc-8d9c-84e68450fb79.png"
+        },
+        {
+            "CompanyId": "795df659-a424-474e-8a2c-326737a82029",
+            "Name": "Dima Group ",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/08832636-b6cb-4ed4-88eb-322f308b31b5.jpeg"
+        },
+        {
+            "CompanyId": "5153108d-93c6-4988-86ab-2f4d88bb3a6f",
+            "Name": "مكتب بشارة",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/1de76a76-cd14-4815-aea7-34ce594710c3.jpeg"
+        },
+        {
+            "CompanyId": "b562478c-0c28-462f-a318-54a796d05634",
+            "Name": "Action Against Hunger",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/7c6dc452-4841-4945-9808-045f9000cf1e.jpeg"
+        },
+        {
+            "CompanyId": "d46a74fb-b597-4b26-88e1-bc98dd6ecffb",
+            "Name": "BeeOrder",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/a4043372-1fe0-45c2-b35f-54d59e07117d.jpeg"
+        },
+        {
+            "CompanyId": "ae8c44e0-f721-41b1-ab30-f67e705dba8b",
+            "Name": "بارتيان للأعمال البرمجية والمعلوماتية  partean for it and technical business",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/9836b676-25dd-4530-874a-5531d4914f95.jpeg"
+        },
+        {
+            "CompanyId": "eb4c6c0e-a020-448f-991d-f5192f2b2f4a",
+            "Name": "TandraTech",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/fed5f59f-6fbc-4abe-b8e7-edc699c91ce7.jpeg"
+        },
+        {
+            "CompanyId": "6cdc51db-2a88-4590-b431-e4c782b2b596",
+            "Name": "Al.Nobalaa",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/7927e68e-c366-48f7-8b86-065dc54ef2cf.jpeg"
+        },
+        {
+            "CompanyId": "cdb30f89-d361-4f4c-92c4-e40b7e4193b1",
+            "Name": "L-One L.L.C",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/528fab4d-de17-457b-8ad9-836b44504278.jpeg"
+        },
+        {
+            "CompanyId": "f5415bf8-b2d8-4a34-9349-e34a460e6e3f",
+            "Name": "SarrdehTech",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/0ec448d5-e1dc-4624-baee-8d95e13c3e1c.jpeg"
+        },
+        {
+            "CompanyId": "c5a00683-cbe5-4087-9747-dcf4b26135da",
+            "Name": "Miamed",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/6bd8598f-4aa8-4c6e-9d57-a225d5d97cbb.jpeg"
+        },
+        {
+            "CompanyId": "50b880cb-2596-4e1b-b9bf-dad99741dfbc",
+            "Name": "Lableb | لَبلِب",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/27c3af14-6011-4647-86bd-4105132cdf10.jpeg"
+        },
+        {
+            "CompanyId": "315d1af7-8cbf-4802-96c5-d7e3e4b330d7",
+            "Name": "Medicus",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/702e7b29-6e26-49f0-90ba-ec115b4b0e1d.jpeg"
+        },
+        {
+            "CompanyId": "e74648fa-b8e1-44e6-b695-ce486a452a42",
+            "Name": "BCC",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/d13442d1-e3db-4610-b8fe-248e825b5d9f.jpeg"
+        },
+        {
+            "CompanyId": "80370b08-24c1-4dc5-8b1b-c8c5c48a4366",
+            "Name": "شركة المشرق العربي للتأمين ",
+            "Logo": "http://forsa.sy/Files/CompanyProfile/ba9d3d4d-2004-41f3-a990-673c87d29edf.jpg"
+        },
+        {
+            "CompanyId": "340d26c8-017d-43c3-9cae-c574a933a243",
+            "Name": "scandinavia tech",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/0cb86398-2d01-4f50-a488-e28334affab9.jpeg"
+        },
+        {
+            "CompanyId": "e9dc48aa-0d39-4c5f-9197-b07ccbbd844f",
+            "Name": "KILANICO GENERAL TRADING L.L.C",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/f4ce5c71-f682-49d5-bc84-e7d81a522cc7.jpeg"
+        },
+        {
+            "CompanyId": "9055c388-0ccf-4010-beba-acda086277c4",
+            "Name": "ISNAD STEEL",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/9fa954d1-b214-46c2-ad0c-57c5947cec79.jpeg"
+        },
+        {
+            "CompanyId": "4cadba70-03bf-4337-9ab6-8f5e377d1a48",
+            "Name": "الشركة الشاملة لخدمات الطيران",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/7f19e63f-1d60-46d5-a196-093fc6c4c826.jpeg"
+        },
+        {
+            "CompanyId": "8733236c-e8ae-4a28-af33-81eb8cdf1d13",
+            "Name": "شركة عكه إخوان - الكرمل",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/7c2c0212-a634-4acf-8041-7215be0e9cb1.jpeg"
+        },
+        {
+            "CompanyId": "299ed50f-842c-4ad6-88a2-7b8f620d3dd8",
+            "Name": "TAREEQ",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/ecf32fbb-7c29-4e6d-9036-eb209a9c172c.jpeg"
+        },
+        {
+            "CompanyId": "f5a208fe-11e5-41fd-8fd6-49e9deb0c85c",
+            "Name": "Midtrans Shipping & Services",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/a55eaa38-40c6-46ae-885c-b5dd7c1e2a88.jpeg"
+        },
+        {
+            "CompanyId": "8e28baf5-2881-40be-b718-0fa4896afab0",
+            "Name": "EastMed",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/d1ffb41d-a2d4-419d-b9a4-9e8448e3ca3d.jpeg"
+        },
+        {
+            "CompanyId": "52ad6f8b-5aa8-4d16-a2f1-0ee9a3269945",
+            "Name": "Sila",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/51cc4373-e37d-4755-b91f-6a02318bb6c3.jpeg"
+        },
+        {
+            "CompanyId": "ba3bd2b6-332e-45ff-bd36-0e3479968377",
+            "Name": "IAB Consulting",
+            "Logo": "https://forsa.sy/Files/CompanyProfile/589f6fa8-ee24-48c5-b3ff-4be5f87e095f.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "backend": {
+        "src": {
+            "config": {},
+            "controller": {
+                "admin.contorller": {
+                    "layout": [
+                        "sort",
+                        "category",
+                        "section"
+                    ],
+                    "settings": {
+                        "license": "license.js",
+                        "support": "support.js"
+                    }
+                },
+                "client.controller": {
+                    "store": {
+                        "store": "store.js",
+                        "sale": "sale.js",
+                        "supportSetting": "storeSupport.js",
+                        "product": "product.js"
+                    },
+                    "user": {
+                        "user": "user.js",
+                        "cart": "cart.js",
+                        "purchase": "purchase.js",
+                        "review": "review.js"
+                    },
+                    "order": {
+                        "order": "order.js",
+                        "payment": "payment.js",
+                        "orderDetail": "orderDetail.js"
+                    }
+                }
+            },
+            "model": {},
+            "middleware": {
+                "validator": {
+                    "user": "user.js",
+                    "product": "product.js",
+                    "layout": [
+                        "sort",
+                        "category",
+                        "section"
+                    ]
+                }
+            },
+            "routes": {}
+        }
+    }
+}

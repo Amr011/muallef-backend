@@ -1,0 +1,896 @@
+{
+    "foras": [
+        {
+            "ForsaId": "cc40bccc-685c-46ab-96dd-771bdd081506",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/e9b0cf59-d1bc-4f3a-beec-378710a4887c.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "MTN Syria",
+            "Title": "Representative: Recruitment",
+            "IsNew": true,
+            "Since": "4 hours ago",
+            "SinceAr": "منذ 4 ساعات",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "3e958d9c-6eae-4dc3-8c4e-5b86f71439fa"
+            ],
+            "JobLevels": [
+                "22"
+            ],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1249,
+            "Address": "Mazzeh",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "98ef65fa-5265-4d4e-a911-fbff246f06ce",
+            "companyId": null,
+            "CompanyImage": null,
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "ماجيكال",
+            "Title": "اعمال ادارية ومكتبية",
+            "IsNew": true,
+            "Since": "8 hours ago",
+            "SinceAr": "منذ 8 ساعات",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "ea2a93e2-249f-4449-9873-4f1f60c890cc"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "60"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 100000,
+            "SalaryTo": 150000,
+            "ForsaNumber": 1247,
+            "Address": "تخطيط كفرسوسة جانب جامع علي الدقر",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": true,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 18,
+            "MaxAge": 45,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "e9cf14d9-8a16-4d11-a7db-cdcd8129de21",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/359b6423-fb9d-4d46-ab3c-6035277b3d4c.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "Syriatel Mobile Telecom",
+            "Title": "Business Process Automation Specialist",
+            "IsNew": true,
+            "Since": "11 hours ago",
+            "SinceAr": "منذ 11 ساعة",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1246,
+            "Address": "Sahnaya- Daraa Highway",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "dbe38ce4-3ee2-4fe9-999b-98d760f5fc57",
+            "companyId": null,
+            "CompanyImage": null,
+            "City": "82c0290a-16c5-481e-8478-0a2d3721f122",
+            "CompanyName": "شركة الجلاب",
+            "Title": "عامل بوفيه",
+            "IsNew": false,
+            "Since": "1 day ago",
+            "SinceAr": "منذ يوم",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "242ce27e-3bbc-4e83-95c2-aa7df1c87108"
+            ],
+            "JobLevels": [
+                "21"
+            ],
+            "ExperienceNeeded": 36,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1245,
+            "Address": "ضاحية قدسيا سكن شبابي",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 25,
+            "MaxAge": 50,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "b93e12da-52bf-439b-ac19-ffec54bcc87f",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/caf08137-ae1b-4447-924f-2da75010f55b.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "kabbani and knifati group",
+            "Title": "مسؤولة موارد بشرية",
+            "IsNew": false,
+            "Since": "1 day ago",
+            "SinceAr": "منذ يوم",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "3e958d9c-6eae-4dc3-8c4e-5b86f71439fa"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 40,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 400000,
+            "SalaryTo": 600000,
+            "ForsaNumber": 1244,
+            "Address": "المنطقة الحرة",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": true,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 26,
+            "MaxAge": 36,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "b418ca6b-b79b-4cd1-874c-38aeccb122ea",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/359b6423-fb9d-4d46-ab3c-6035277b3d4c.jpeg",
+            "City": "bc60637d-467f-4492-b49c-90f0a9faefac",
+            "CompanyName": "Syriatel Mobile Telecom",
+            "Title": "Radio Engineer",
+            "IsNew": false,
+            "Since": "1 day ago",
+            "SinceAr": "منذ يوم",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "10cc04f5-adb1-488b-848c-3524d564733e"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1243,
+            "Address": "Tartous",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "c603721f-7885-47f4-b0fb-1cac4c3fb5c1",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/359b6423-fb9d-4d46-ab3c-6035277b3d4c.jpeg",
+            "City": "55428095-f72c-477e-aeb5-b85582f58e6a",
+            "CompanyName": "Syriatel Mobile Telecom",
+            "Title": "POS Representative",
+            "IsNew": false,
+            "Since": "1 day ago",
+            "SinceAr": "منذ يوم",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "ea2a93e2-249f-4449-9873-4f1f60c890cc"
+            ],
+            "JobLevels": [
+                "22"
+            ],
+            "ExperienceNeeded": 36,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1242,
+            "Address": "Hama",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "c33cee04-b7ef-4a62-9ec5-23963a553863",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/995e5308-bab4-43fc-8d9c-84e68450fb79.png",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "CODERS DC",
+            "Title": "Android Developer",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1241,
+            "Address": "Al Baramkeh",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "c0bf2160-a9f6-45ae-8592-b85ee8d1e73a",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/995e5308-bab4-43fc-8d9c-84e68450fb79.png",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "CODERS DC",
+            "Title": "FrontEnd Developer",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1240,
+            "Address": "Al Baramkeh",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "6e84bef8-2290-43ca-9950-5e8b6baa4ded",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/995e5308-bab4-43fc-8d9c-84e68450fb79.png",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "CODERS DC",
+            "Title": "Content Writer",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "4a733ecd-61e1-4386-ba82-d090d7a5baa8",
+                "57dc1403-881e-4fc6-a17d-4daa7916c1c2"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1239,
+            "Address": "Al Baramkeh",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "fd1346d0-72b7-453a-bfd4-9f815b9d8724",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "محامي استشاري مساعد",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "4fa59a33-d464-4b26-808b-4be8fdfc79c7"
+            ],
+            "JobLevels": [
+                "24"
+            ],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1238,
+            "Address": "دمشق",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 25,
+            "MaxAge": 35,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "1c9935b0-c73f-4b89-907c-6be9b19caa8e",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/caf08137-ae1b-4447-924f-2da75010f55b.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "kabbani and knifati group",
+            "Title": "موظفة مبيعات داخلية",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "ec47f111-c197-429e-8c8f-50ec2416ab37"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 39,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 400000,
+            "SalaryTo": 600000,
+            "ForsaNumber": 1237,
+            "Address": "الحريقة",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": true,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 25,
+            "MaxAge": 36,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "211a5159-328f-41db-b989-9712699edb20",
+            "companyId": null,
+            "CompanyImage": "http://forsa.sy/Files/CompanyProfile/ba9d3d4d-2004-41f3-a990-673c87d29edf.jpg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "شركة المشرق العربي للتأمين ",
+            "Title": "موظف/ة مساعد ـ مراقبة العمليات ",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "f9da8717-2e51-42ee-936e-91a176eedcc5",
+                "6506ffcf-76d6-4327-ab06-f3c52ed76edf"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "59"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1236,
+            "Address": "دمشق ـ الروضة ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "806afad7-37b5-4bb5-b1d6-80fb5e0892a6",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/08832636-b6cb-4ed4-88eb-322f308b31b5.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "Dima Group ",
+            "Title": "Sales ",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "ec47f111-c197-429e-8c8f-50ec2416ab37"
+            ],
+            "JobLevels": [
+                "24"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1235,
+            "Address": "Abou Rmaneh, Nizar kabbany St. ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 24,
+            "MaxAge": 40,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "31ec0e56-f9f1-4487-948e-bea7a6dbf836",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/08832636-b6cb-4ed4-88eb-322f308b31b5.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "Dima Group ",
+            "Title": "Account Manager",
+            "IsNew": false,
+            "Since": "2 days ago",
+            "SinceAr": "منذ يومين",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "4a733ecd-61e1-4386-ba82-d090d7a5baa8"
+            ],
+            "JobLevels": [
+                "24"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1234,
+            "Address": "Abou Rmaneh, Nizar kabbany St. ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 21,
+            "MaxAge": 40,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "435135b0-6f45-42dd-9aa7-6546a5fba160",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "مديرة مكتب",
+            "IsNew": false,
+            "Since": "3 days ago",
+            "SinceAr": "منذ 3 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "89782850-c080-4a58-a8da-05c7aa2d137e",
+                "a7ec5cd4-7aa4-4256-889e-d0d02bb7d0c4"
+            ],
+            "JobLevels": [
+                "24"
+            ],
+            "ExperienceNeeded": 41,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1233,
+            "Address": "شارع بغداد",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 30,
+            "MaxAge": 40,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "a90ff164-9a9f-42a1-b4f1-cfbb4a248fb1",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/08832636-b6cb-4ed4-88eb-322f308b31b5.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "Dima Group ",
+            "Title": "Graphic Designer",
+            "IsNew": false,
+            "Since": "3 days ago",
+            "SinceAr": "منذ 3 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "a73c0e70-81f7-41ff-8e9c-389e6166b6a6"
+            ],
+            "JobLevels": [
+                "24"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1232,
+            "Address": "Abou Rmaneh, Nizar kabbany St. ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 22,
+            "MaxAge": 35,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "6b17abb1-4c77-4493-a9a1-747ac04e566e",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/9836b676-25dd-4530-874a-5531d4914f95.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "بارتيان للأعمال البرمجية والمعلوماتية  partean for it and technical business",
+            "Title": "Network Engineer",
+            "IsNew": false,
+            "Since": "3 days ago",
+            "SinceAr": "منذ 3 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 39,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1230,
+            "Address": "الشعلان - جاده الثعالبی - مقابل بوظا عماد آمیکا ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": 25,
+            "MaxAge": 35,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "f856f4a2-da12-4948-9dc0-3cc4e80b305b",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "Secretary",
+            "IsNew": false,
+            "Since": "4 days ago",
+            "SinceAr": "منذ 4 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "a7ec5cd4-7aa4-4256-889e-d0d02bb7d0c4",
+                "de9a721c-cbeb-414f-a807-4574efb6fa6c",
+                "89782850-c080-4a58-a8da-05c7aa2d137e",
+                "1aba9b0e-949a-448e-ac45-0cb3329582e5"
+            ],
+            "JobLevels": [
+                "22"
+            ],
+            "ExperienceNeeded": 38,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1229,
+            "Address": "Al Hamra Street, Damascus, Syria",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": 40,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "43427008-6281-4216-950d-4ddc513ce904",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/27c3af14-6011-4647-86bd-4105132cdf10.jpeg",
+            "City": "c84e6236-3f07-4da2-979b-06153933bd33",
+            "CompanyName": "Lableb | لَبلِب",
+            "Title": "UI/UX Designer",
+            "IsNew": false,
+            "Since": "4 days ago",
+            "SinceAr": "منذ 4 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "a73c0e70-81f7-41ff-8e9c-389e6166b6a6"
+            ],
+            "JobLevels": [],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1224,
+            "Address": "Our Office in Damascus",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "a6060bc7-ff8b-421c-ab38-16257af4d407",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "مسؤول تسويق",
+            "IsNew": false,
+            "Since": "5 days ago",
+            "SinceAr": "منذ 5 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "4a733ecd-61e1-4386-ba82-d090d7a5baa8"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 39,
+            "JobTypes": [
+                "60"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1074,
+            "Address": "البرامكة والمالكي",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "04d3a46b-a949-4a13-9633-cd6f213d6151",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "mobile front end  developer",
+            "IsNew": false,
+            "Since": "6 days ago",
+            "SinceAr": "منذ 6 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [
+                "23"
+            ],
+            "ExperienceNeeded": 36,
+            "JobTypes": [
+                "59"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 500000,
+            "SalaryTo": 2000000,
+            "ForsaNumber": 1228,
+            "Address": "دمشق الفردوس",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": true,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "68e7cb1e-cca8-40e4-966d-6bfc7a116daa",
+            "companyId": null,
+            "CompanyImage": "https://forsa.sy/Files/CompanyProfile/48982b57-4aed-415a-b8e4-22fb934b7e72.jpeg",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "shami-cafe",
+            "Title": "IT Manager ",
+            "IsNew": false,
+            "Since": "6 days ago",
+            "SinceAr": "منذ 6 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "10cc04f5-adb1-488b-848c-3524d564733e",
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [],
+            "ExperienceNeeded": 41,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1226,
+            "Address": "المنطقة الحرة ",
+            "IsCompanyPublic": true,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        },
+        {
+            "ForsaId": "92503c62-0ccf-4145-97e7-d72d3e94ac3f",
+            "companyId": null,
+            "CompanyImage": "",
+            "City": "0149b671-e245-4a36-ac32-162f6b849882",
+            "CompanyName": "",
+            "Title": "Full Stack Developer",
+            "IsNew": false,
+            "Since": "6 days ago",
+            "SinceAr": "منذ 6 ايام",
+            "CreatedDate": "0001-01-01T00:00:00",
+            "JobRoles": [
+                "04fc023a-729b-4f38-b1d8-f8aeb60a1a14"
+            ],
+            "JobLevels": [
+                "22"
+            ],
+            "ExperienceNeeded": 37,
+            "JobTypes": [
+                "58"
+            ],
+            "Keywords": [],
+            "SalaryFrom": 0,
+            "SalaryTo": 0,
+            "ForsaNumber": 1225,
+            "Address": "المنطقة الحرة ",
+            "IsCompanyPublic": false,
+            "IsSalaryPublic": false,
+            "ActionDate": "0001-01-01T00:00:00",
+            "RequiredPortfolio": null,
+            "SocialResponsibility": null,
+            "MinAge": null,
+            "MaxAge": null,
+            "Type": 0,
+            "ActionStatus": 0,
+            "ForsaJobType": null
+        }
+    ],
+    "page": "0",
+    "total_pages": "5",
+    "RecordNuber": "00000000-0000-0000-0000-000000000000"
+}
